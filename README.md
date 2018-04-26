@@ -1,5 +1,5 @@
 # SimpleList
-An ios list app with elegant ui and a customiszed timer. 
+An ios to-do list app with elegant ui and a customiszed timer. 
 
 
 <img src="img/ui1.jpeg" width="400">
